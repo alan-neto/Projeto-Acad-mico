@@ -11,7 +11,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: `[HUI, Xiang; RESHEF, Oren; ZHOU, Luofeng. The short-term effects of generative artificial intelligence on employment: evidence from an online labor market. Organization Science, v. 35, p. 1977-1989, 2024.]`
 * DOI ou URL: `[https://www.aeaweb.org/conference/2025/program/paper/T485kaTk]`
 * Base de origem: `[AEA Annual Meeting / INFORMS (Organization Science)]`
-* Leitor responsável: `[Gabriel Campos Monzanoi]`
+* Leitor responsável: `[Alan Rosa da Silveira Neto / Gabriel Campos Monzanoi]`
 * Data da leitura: `[05/10/2026]`
 
 ## Fichamento
