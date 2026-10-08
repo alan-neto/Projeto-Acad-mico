@@ -8,8 +8,8 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 * Título do artigo: `[preencher]`
 * Versão revisada: `[número]`
-* Data: `[dd/mm/aaaa]`
-* Responsável pela conferência final: `[preencher]`
+* Data: `[08/10/2026]`
+* Responsável pela conferência final: `[Alan Rosa da Silveira Neto / Gabriel Campos Monzani]`
 
 ## Revisão científica
 
@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`[preencher]`|`[preencher]`|`[preencher]`|`[Alan Rosa da Silveira Neto / Gabriel Campos Monzani ]`|
 
 
 
