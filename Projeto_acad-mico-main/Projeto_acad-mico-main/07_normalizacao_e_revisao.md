@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[Alan Rosa da Silveira Neto / Gabriel Campos Monzani ]`|
+|`[Revisão da Literatura]`|`[Inconsistência de formatação (uso de colchetes e aspas) e falta de padronização nas citações nos Eixos 1, 2 e 3.]`|`[Eliminar as pontuações e colchetes de rascunho, padronizando as citações de autores conforme as normas da ABNT.]`|`[Alan Rosa da Silveira Neto / Gabriel Campos Monzani ]`|
 
 
 
