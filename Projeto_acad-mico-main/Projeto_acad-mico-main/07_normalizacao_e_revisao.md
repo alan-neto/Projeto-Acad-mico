@@ -6,8 +6,8 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
-* Versão revisada: `[número]`
+* Título do artigo: `[Impacto social da tecnologia]`
+* Versão revisada: `[1]`
 * Data: `[08/10/2026]`
 * Responsável pela conferência final: `[Alan Rosa da Silveira Neto / Gabriel Campos Monzani]`
 
